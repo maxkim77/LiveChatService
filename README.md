@@ -11,6 +11,26 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
+#settings.py
+
+CHANNEL_LAYERS = {
+    "default": {
+        "BACKEND": "channels_redis.core.RedisChannelLayer",
+        "CONFIG": {
+            "hosts": [
+                {
+                    "host": "Your host",
+                    "port": yourport,
+                    "password": "your password",
+                }
+            ],
+        },
+    },
+}
+
+
+
+
 python manage.py makemigrations
 python manage.py migrate
 
