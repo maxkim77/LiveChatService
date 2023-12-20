@@ -133,9 +133,9 @@ CHANNEL_LAYERS = {
         "CONFIG": {
             "hosts": [
                 {
-                    "host": "redis-14071.c323.us-east-1-2.ec2.cloud.redislabs.com",
-                    "port": 14071,
-                    "password": "s2FRm5c9fGyDBwqS44KCq1NsEiBpWNXX",
+                    "host": "",
+                    "port": ,
+                    "password": "",
                 }
             ],
         },
