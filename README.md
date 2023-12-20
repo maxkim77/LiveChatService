@@ -3,6 +3,7 @@
 
 - This repository is about LiveChat Service
 - You might be able to practice LiveChat service With Django Channels & Redis
+- You can be able to make account in redis website : https://app.redislabs.com/
 - Here is the way how to download code and execute it agiain.
 - Hope this help.
 
