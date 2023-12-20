@@ -1,4 +1,11 @@
 
+#LiveChat Service Practice
+
+- This repository is about LiveChat Service
+- You might be able to practice LiveChat service With Django Channels & Redis
+- Here is the way how to download code and execute it agiain.
+- Hope this help.
+
 
 ```
 
